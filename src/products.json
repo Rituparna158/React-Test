@@ -1,0 +1,12 @@
+ [
+  { "id": 1, "title": "iPhone 14", "price": 800, "category": "mobile" },
+  { "id": 2, "title": "MacBook Pro", "price": 2000, "category": "laptop" },
+  { "id": 3, "title": "AirPods", "price": 200, "category": "accessory" },
+  { "id": 4, "title": "Samsung Galaxy S23", "price": 900, "category": "mobile" },
+  { "id": 5, "title": "Dell XPS 13", "price": 1500, "category": "laptop" },
+  { "id": 6, "title": "Sony WH-1000XM5", "price": 350, "category": "accessory" },
+  { "id": 7, "title": "iPad Air", "price": 700, "category": "tablet" },
+  { "id": 8, "title": "Apple Watch Series 9", "price": 400, "category": "wearable" },
+  { "id": 9, "title": "HP Pavilion 15", "price": 800, "category": "laptop" },
+  { "id": 10, "title": "Logitech MX Master 3", "price": 100, "category": "accessory" }
+]
